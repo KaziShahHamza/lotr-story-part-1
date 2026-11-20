@@ -30,7 +30,7 @@ Part I follows a new company of travelers as they discover that an old evil is r
 
 ## Agent workflow
 
-1. Read `AGENTS.md` and this roadmap before editing.
+1. Read `AGENTS.md`, `docs/AGENT_GUIDELINES.md`, and `docs/PROJECT_RULES.md` before editing.
 2. Inspect existing episodes and notes before introducing new canon.
 3. Make one focused change at a time.
 4. Update episode status and continuity notes with every meaningful story change.

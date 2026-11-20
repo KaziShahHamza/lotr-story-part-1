@@ -6,7 +6,7 @@ An original, episodic fantasy adventure about fellowship, forgotten histories, a
 
 ## Reading order
 
-Episodes will be added to the `episodes/` directory as they are drafted and revised.
+Episodes will be added to the `episodes/` directory as they are drafted and revised. Each episode's story prose is limited to 1,000 words; see [`docs/PROJECT_RULES.md`](docs/PROJECT_RULES.md).
 
 1. [Episode 1 — The Last Light of Home](episodes/episode-01-the-last-light-of-home.md) *(planned)*
 2. [Episode 2 — The Road Under Rain](episodes/episode-02-the-road-under-rain.md) *(planned)*
@@ -18,11 +18,13 @@ Episodes will be added to the `episodes/` directory as they are drafted and revi
 
 ## Project files
 
-- [`AGENTS.md`](AGENTS.md) — guidance for agents and contributors.
+- [`AGENTS.md`](AGENTS.md) — entry point for agent instructions.
+- [`docs/AGENT_GUIDELINES.md`](docs/AGENT_GUIDELINES.md) — workflow and review rules for agents.
+- [`docs/PROJECT_RULES.md`](docs/PROJECT_RULES.md) — episode limits and story completion requirements.
 - [`ROADMAP.md`](ROADMAP.md) — episode plan and milestones.
 - `episodes/` — the story itself.
 - `notes/` — optional continuity and world-building material.
 
 ## Contribution guidelines
 
-When adding an episode, preserve the established continuity, use the episode format in `AGENTS.md`, and update the reading order and roadmap status. Drafts are welcome, but label them clearly until they have been reviewed.
+When adding an episode, preserve established continuity, follow the format in `AGENTS.md`, and update the reading order and roadmap status. Drafts are welcome, but label them clearly until reviewed against the completion checklist in `docs/PROJECT_RULES.md`.
