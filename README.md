@@ -9,7 +9,7 @@ An original, episodic fantasy adventure about fellowship, forgotten histories, a
 Episodes will be added to the `episodes/` directory as they are drafted and revised. Each episode's story prose is limited to 1,000 words; see [`docs/PROJECT_RULES.md`](docs/PROJECT_RULES.md).
 
 1. [Episode 1 — The Last Light of Home](episodes/episode-01-the-last-light-of-home.md) — Complete
-2. [Episode 2 — The Road Under Rain](episodes/episode-02-the-road-under-rain.md) *(planned)*
+2. [Episode 2 — The Road Under Rain](episodes/episode-02-the-road-under-rain.md) — Complete
 3. [Episode 3 — The Watchers at the Ford](episodes/episode-03-the-watchers-at-the-ford.md) *(planned)*
 4. [Episode 4 — A Song Beneath Stone](episodes/episode-04-a-song-beneath-stone.md) *(planned)*
 5. [Episode 5 — The Broken Company](episodes/episode-05-the-broken-company.md) *(planned)*

@@ -9,7 +9,7 @@ Part I follows a new company of travelers as they discover that an old evil is r
 | Episode | Working title | Status | Goal |
 |---|---|---|---|
 | 1 | The Last Light of Home | Complete | Introduce the protagonist, the ordinary world, and the inciting discovery. |
-| 2 | The Road Under Rain | Planned | Begin the journey and establish the first major danger. |
+| 2 | The Road Under Rain | Complete | Begin the journey and establish the first major danger. |
 | 3 | The Watchers at the Ford | Planned | Test the company’s trust and reveal a hidden pursuit. |
 | 4 | A Song Beneath Stone | Planned | Explore an ancient place and uncover a fragment of the larger history. |
 | 5 | The Broken Company | Planned | Force a difficult choice that changes the group’s direction. |
@@ -20,7 +20,7 @@ Part I follows a new company of travelers as they discover that an old evil is r
 
 - [x] Define the protagonist and the central mystery.
 - [x] Create a continuity sheet for characters, locations, factions, and timeline.
-- [ ] Draft Episodes 1–2.
+- [x] Draft Episodes 1–2.
 - [ ] Review the opening arc for voice, pacing, and originality.
 - [ ] Draft Episodes 3–5.
 - [ ] Resolve the Part I midpoint reversal.
