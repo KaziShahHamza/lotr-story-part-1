@@ -10,7 +10,7 @@ Part I follows a new company of travelers as they discover that an old evil is r
 |---|---|---|---|
 | 1 | The Last Light of Home | Complete | Introduce the protagonist, the ordinary world, and the inciting discovery. |
 | 2 | The Road Under Rain | Complete | Begin the journey and establish the first major danger. |
-| 3 | The Watchers at the Ford | Planned | Test the company’s trust and reveal a hidden pursuit. |
+| 3 | The Watchers at the Ford | Complete | Test the company’s trust and reveal a hidden pursuit. |
 | 4 | A Song Beneath Stone | Planned | Explore an ancient place and uncover a fragment of the larger history. |
 | 5 | The Broken Company | Planned | Force a difficult choice that changes the group’s direction. |
 | 6 | The Hill of Crows | Planned | Escalate the threat and expose the antagonist’s immediate plan. |
