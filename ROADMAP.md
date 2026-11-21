@@ -14,7 +14,7 @@ Part I follows a new company of travelers as they discover that an old evil is r
 | 4 | A Song Beneath Stone | Complete | Explore an ancient place and uncover a fragment of the larger history. |
 | 5 | The Broken Company | Complete | Force a difficult choice that changes the group’s direction. |
 | 6 | The Hill of Crows | Complete | Escalate the threat and expose the antagonist’s immediate plan. |
-| 7 | The Oath at Dawn | Planned | Resolve the central Part I conflict while creating consequences for Part II. |
+| 7 | The Oath at Dawn | Complete | Resolve the central Part I conflict while creating consequences for Part II. |
 
 ## Milestones
 
