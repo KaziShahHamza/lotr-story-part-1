@@ -13,7 +13,7 @@ Episodes will be added to the `episodes/` directory as they are drafted and revi
 3. [Episode 3 — The Watchers at the Ford](episodes/episode-03-the-watchers-at-the-ford.md) — Complete
 4. [Episode 4 — A Song Beneath Stone](episodes/episode-04-a-song-beneath-stone.md) — Complete
 5. [Episode 5 — The Broken Company](episodes/episode-05-the-broken-company.md) — Complete
-6. [Episode 6 — The Hill of Crows](episodes/episode-06-the-hill-of-crows.md) *(planned)*
+6. [Episode 6 — The Hill of Crows](episodes/episode-06-the-hill-of-crows.md) — Complete
 7. [Episode 7 — The Oath at Dawn](episodes/episode-07-the-oath-at-dawn.md) *(planned)*
 
 ## Project files
